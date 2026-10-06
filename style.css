@@ -1,0 +1,11 @@
+body {font-family: 'Times New Roman', Times, serif;background-color: blue;
+color: cyan;
+background-image: url(https://cdn.pixabay.com/photo/2013/11/20/12/52/sky-213848_1280.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+
+}
+h1{color: whitesmoke;}
+img{width: 250px; height: 300;}
